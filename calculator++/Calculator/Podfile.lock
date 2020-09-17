@@ -1,0 +1,16 @@
+PODS:
+  - "c++Wrapper (0.0.1)"
+
+DEPENDENCIES:
+  - "c++Wrapper (from `/Users/oscy/Documents/C+++/c++Wrapper.podspec`)"
+
+EXTERNAL SOURCES:
+  "c++Wrapper":
+    :path: "/Users/oscy/Documents/C+++/c++Wrapper.podspec"
+
+SPEC CHECKSUMS:
+  "c++Wrapper": c3ccbb3311e6f010c92aec03fda50397324f4092
+
+PODFILE CHECKSUM: 12c7339405e7ead1cc16d3b8836fb07be1e0a41e
+
+COCOAPODS: 1.6.1

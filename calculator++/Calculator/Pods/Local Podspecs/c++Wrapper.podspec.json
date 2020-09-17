@@ -1,0 +1,21 @@
+{
+  "name": "c++Wrapper",
+  "version": "0.0.1",
+  "summary": "No summary",
+  "description": "c++WrapperSwift",
+  "homepage": "N/A",
+  "authors": {
+    "Oscay": "Oscar Maldonado"
+  },
+  "platforms": {
+    "ios": "12.1"
+  },
+  "source": {
+    "git": "https://github.com/Oscarmmgg1234"
+  },
+  "source_files": [
+    "c++Wrapper/api/**/*.{h,m,mm}",
+    "c++Wrapper/core/**/*.{h,hpp,c,cpp,m,mm}"
+  ],
+  "public_header_files": "c++Wrapper/api/**/*.{h}"
+}
